@@ -1,0 +1,31 @@
+body {
+	background: url(../images/hypnotize.png);
+}
+
+#container {
+	width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFCC33;
+    padding-top: 2%;
+    padding-bottom: 2%
+}
+
+form {
+	margin-top: 2%;
+}
+
+#headerText {
+	font-size: 35px;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.question{
+	margin-bottom: 0;
+	font-weight: bold;
+}
+
+#timerBox {
+	font-size: 45px;
+    color: red;
+}
